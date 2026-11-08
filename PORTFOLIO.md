@@ -16,7 +16,7 @@ A directory of the website showcases featured in my Upwork portfolio. These link
 | Velasca | [Visit website](https://www.velasca.com/) |
 | Aeyde | [Visit website](https://www.aeyde.com/) |
 | Kinn | [Visit website](https://kinnstudio.com/) |
-| Kotn | [Visit website](https://kotn.com/) |
+| Kotn | [Visit website](https://kotn.com/) 
 | Copperfield | [Visit website](https://www.copperfield.com/) |
 | Cullen Jewellery | [Visit website](https://cullenjewellery.com/) |
 | Sierra Designs | [Visit website](https://sierradesigns.com/) |
