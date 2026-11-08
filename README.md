@@ -22,7 +22,7 @@ I help store owners customize Shopify and BigCommerce themes, improve mobile lay
 
 <table>
 <tr>
-<td width="50%"><a href="https://kotn.com/"><img src="https://github.com/tauheedashraf2007-art/tauheedashraf2007-art/blob/main/kotn.jpg" alt="Kotn storefront preview" width="100%"></a><br><strong>Kotn</strong><br>Clothing & home</td>
+<td colspan="2"><a href="https://kotn.com/"><img src="https://github.com/tauheedashraf2007-art/tauheedashraf2007-art/blob/main/kotn.jpg" alt="Kotn storefront preview" width="100%"></a><br><strong>Kotn</strong><br>Clothing & home</td>
 </tr>
 <tr>
 <td><a href="https://cullenjewellery.com/"><img src="https://github.com/tauheedashraf2007-art/tauheedashraf2007-art/blob/main/cullen-jewellery.jpg" alt="Cullen Jewellery storefront preview" width="100%"></a><br><strong>Cullen Jewellery</strong><br>Fine jewellery</td>
@@ -34,7 +34,7 @@ I help store owners customize Shopify and BigCommerce themes, improve mobile lay
 </tr>
 </table>
 
-**[Explore all 22 website showcases →](https://github.com/tauheedashraf2007-art/tauheedashraf2007-art/blob/main/PORTFOLIO.md)**
+**[Explore all website showcases →](https://github.com/tauheedashraf2007-art/tauheedashraf2007-art/blob/main/PORTFOLIO.md)**
 
 <sub>Visual storefront showcases. Brand assets belong to their respective owners; client theme source code is not included in this repository.</sub>
 
